@@ -1,6 +1,6 @@
 {
     "default_model": "juggernautXL_v9Rundiffusion.safetensors",
-    "default_refiner": "sd_xl_refiner_1.0_0.9vae.safetensors",
+    "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
@@ -44,7 +44,6 @@
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
         "juggernautXL_v9Rundiffusion.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors"
-        "sd_xl_refiner_1.0_0.9vae.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0_0.9vae.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
